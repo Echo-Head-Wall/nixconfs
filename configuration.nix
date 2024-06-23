@@ -162,9 +162,16 @@
     tmux
     chromium
     rustc
+    cargo
     nodejs_22
     python313
     oh-my-fish
+    weechat-unwrapped
+    go
+    neofetch
+    vscode
+    docker
+
   ];
 
   # Some programs need SUID wrappers, can be configured further or are
