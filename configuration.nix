@@ -171,7 +171,7 @@
     neofetch
     vscode
     docker
-
+    _1password-gui-beta
   ];
 
   # Some programs need SUID wrappers, can be configured further or are
