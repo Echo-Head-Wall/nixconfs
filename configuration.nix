@@ -164,6 +164,7 @@
     rustc
     nodejs_22
     python313
+    oh-my-fish
   ];
 
   # Some programs need SUID wrappers, can be configured further or are
